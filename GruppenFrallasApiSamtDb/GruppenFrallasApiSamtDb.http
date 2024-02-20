@@ -1,0 +1,6 @@
+@GruppenFrallasApiSamtDb_HostAddress = http://localhost:5125
+
+GET {{GruppenFrallasApiSamtDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
